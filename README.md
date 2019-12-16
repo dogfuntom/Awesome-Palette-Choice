@@ -24,9 +24,10 @@ Palettes created/curated by single man, single team, etc.
 * [Happy Hues](https://www.happyhues.co/) — Showcases: itself (website) and desktop UI.
 
 # Geometric
-Traditional ideas are used: color wheel, color harmony, complementary colors, etc.
+Traditional ideas are used: color wheel, color harmony, complementary colors, triad, tetrad, etc.
 * [Adobe Color](https://color.adobe.com/) — Application: not tailored for any particular application.
 * [ColorBox](https://www.colorbox.io/) — Uses easing instead of color wheel (try it, this approach works better than it may sound). Application: not tailored for any particular application.
+* [Paletton.com](http://paletton.com/) — Showcases: website, artwork, fabric, animation.
 
 # No choice
 No need to be special and original? Stick to color palette that work, that is tried and true.
