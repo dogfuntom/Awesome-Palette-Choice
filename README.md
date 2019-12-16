@@ -30,7 +30,7 @@ Traditional ideas are used: color wheel, color harmony, complementary colors, tr
 * [Paletton.com](http://paletton.com/) — Showcases: website, artwork, fabric, animation.
 
 # No choice
-No need to be special and original? Stick to color palette that work, that is tried and true.
+No need to be special and original? Stick to color palette that work, is tried and true.
 * [Open Color](https://yeun.github.io/open-color/) — A single but especially robust color scheme.
 
 # Other awesome lists:
@@ -38,3 +38,4 @@ No need to be special and original? Stick to color palette that work, that is tr
 
 # Other resourcers:
 * [Encycolorpedia](https://encycolorpedia.com/)
+* [Wikipedia](https://en.wikipedia.org/wiki/List_of_colors_by_shade)
