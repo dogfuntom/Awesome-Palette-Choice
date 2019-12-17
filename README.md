@@ -23,11 +23,16 @@ Palettes created/curated by single man, single team, etc.
 * [Flat UI Colors 2](https://flatuicolors.com/) — Application: UI.
 * [Happy Hues](https://www.happyhues.co/) — Showcases: itself (website) and desktop UI.
 
-# Geometric
+# Color wheel
 Traditional ideas are used: color wheel, color harmony, complementary colors, triad, tetrad, etc.
 * [Adobe Color](https://color.adobe.com/) — Application: not tailored for any particular application.
-* [ColorBox](https://www.colorbox.io/) — Uses easing instead of color wheel (try it, this approach works better than it may sound). Application: not tailored for any particular application.
 * [Paletton.com](http://paletton.com/) — Showcases: website, artwork, fabric, animation.
+
+# Other approaches (geometric, spatial, etc.)
+(Try them, these approaches work better than they may sound.)
+* [Colllor](http://colllor.com/) — Uses consistency (fixing some properties while varying only the rest). Application: not tailored for any particular application.
+* [ColorBox](https://www.colorbox.io/) — Uses easing and distance on a 2d plot. Application: not tailored for any particular application.
+* [i want hue](https://medialab.github.io/iwanthue/) — Uses clustering on 2d plane. Application: data science.
 
 # No choice
 No need to be special and original? Stick to color palette that work, is tried and true.
