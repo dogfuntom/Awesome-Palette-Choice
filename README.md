@@ -2,7 +2,7 @@
 A curated list of color palette semi-automatic and AI-powered generators, and other alternatives.
 
 ## How to use generated/chosen palettes in UI
-If your intention is UI and you're not already a designer, **please do not ignore these general** pieces of advice. They take only 5 minutes (each), have a high signal/noise ratio and have no annoyances (ads):
+If your intention is UI and you're not already a designer, **please do not ignore this general** piece of advice. It takes only 5 minutes to read, have a high signal/noise ratio and have no annoyances (ads):
 * [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/) — Explains how not to end up with [UI that look like this](https://refactoring-ui.nyc3.cdn.digitaloceanspaces.com/previews/whats-in-a-color-palette-02.png).
 
 ## Automatic
