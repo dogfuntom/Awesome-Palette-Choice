@@ -6,7 +6,7 @@ If your intention is UI and you're not already a designer, **please do not ignor
 * [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/) — Explains how not to end up with [UI that look like this](https://refactoring-ui.nyc3.cdn.digitaloceanspaces.com/previews/whats-in-a-color-palette-02.png).
 
 ## Automatic
-Palettes are generated automagically or with AI. Importantly, usually, you still can (sometimes must) specify a color to force such a tool to generate palettes around the provided color.
+Palettes are generated automagically or with AI. Usually you still can (sometimes must) specify a color to force such a tool to generate palettes around the provided color.
 * [Colormind](http://colormind.io/) — Uses deep learning. Application: not tailored for any particular application. Showcases: website.
 * [Coolors.co](https://coolors.co/) — Application: not tailored for any particular application.
 * [Palx](https://palx.jxnblk.com/) — Application: UI, data visualization.
@@ -14,7 +14,7 @@ Palettes are generated automagically or with AI. Importantly, usually, you still
 
 ## Community
 Palettes provided by users and their votes.
-* [COLOURLovers](https://www.colourlovers.com/) — Application: not tailored for any particular application.
+* [COLOURLovers](https://www.colourlovers.com/) — Not tailored for any particular application.
 
 ## Curated Collections
 Palettes created/curated by single man, single team, etc.
@@ -25,8 +25,9 @@ Palettes created/curated by single man, single team, etc.
 
 ## Color wheel
 Traditional ideas are used: color wheel, color harmony, complementary colors, triad, tetrad, etc.
-* [Adobe Color](https://color.adobe.com/) — Application: not tailored for any particular application.
+* [Adobe Color](https://color.adobe.com/) — Not tailored for any particular application.
 * [Paletton.com](http://paletton.com/) — Showcases: website, artwork, fabric, animation.
+* [Color Calculator](https://www.sessions.edu/color-calculator/) — Not tailored for any particular application.
 
 ## Other approaches (geometric, spatial, etc.)
 (Try them, these approaches work better than they may sound.)
@@ -40,7 +41,9 @@ No need to be special and original? Go with the color palette that works.
 
 # Other awesome lists:
 * [spark-joy: easy ways to add design flair, user delight, and whimsy to your product](https://github.com/sw-yx/spark-joy) — Includes color picking and color knowledge among other design-related things.
+* [Nodesign.dev](https://nodesign.dev/) — Tools for people who have to design but don't want to, including color-related tools.
 
 # Other resourcers:
 * [Encycolorpedia](https://encycolorpedia.com/)
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_colors_by_shade)
+* [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
