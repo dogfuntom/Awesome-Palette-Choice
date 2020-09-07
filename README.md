@@ -52,3 +52,4 @@ No need to be special and original? Go with the color palette that works.
 * [Wikipedia](https://en.wikipedia.org/wiki/List_of_colors_by_shade)
 * [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
 * [Fluent UI Theme Designer](https://fabricweb.z5.web.core.windows.net/pr-deploy-site/refs/heads/master/theming-designer/index.html)
+* [colornames.org](https://colornames.org/) — A collaborative effort to name all 16.7M colors.
