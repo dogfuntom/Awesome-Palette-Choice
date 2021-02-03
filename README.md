@@ -1,5 +1,7 @@
 # Awesome Color Palette Choice
-A curated list of color palette semi-automatic and AI-powered generators, and other alternatives. To find what you need faster, use **Ctrl-F** to search for any of following keywords: `data` (science, visualization), `map`, `website`, `UI` (desktop, etc.) or `other`.
+A curated list of color palette semi-automatic and AI-powered generators, and other alternatives. To find what you need faster, use **Ctrl-F** to search for any of following keywords:
+- Target application or showcase type: `data` (science, visualization), `map`, `website`, `UI` (desktop, etc.), `other`.
+- Export: `CSS`, `SCSS`, `JSON`.
 
 ## How to use generated/chosen palettes in UI
 If your intention is UI and you're not already a designer, **please do not ignore this general** piece of advice. It takes only 5 minutes to read, have a high signal/noise ratio and have no annoyances (ads):
@@ -32,10 +34,12 @@ Traditional ideas are used: color wheel, color harmony, complementary colors, tr
 * [Color Calculator](https://www.sessions.edu/color-calculator/) — Not tailored for any particular application (`other`).
 
 ## Other approaches (geometric, spatial, etc.)
-(Try them, these approaches work better than they may sound.)
-* [Colllor](http://colllor.com/) — Uses consistency (fixing some properties while varying only the rest). Not tailored for any particular application (`other`).
-* [ColorBox](https://www.colorbox.io/) — Uses easing and distance on a 2d plot. Not tailored for any particular application (`other`).
-* [i want hue](https://medialab.github.io/iwanthue/) — Uses clustering on 2d plane. Application: `data` science.
+
+* [Colllor](http://colllor.com/) — Consistency (fixing some properties while varying only the rest). Not tailored for any particular application (`other`).
+* [Color Atlas](http://color.support/coloratlas.html) — Not tailored for any particular application (`other`).
+* [ColorBox](https://www.colorbox.io/) — [Easing and distance on 2d space using Bézier curve](https://kvyn.medium.com/introducing-the-new-colorbox-e0109c021729). (`other`, `json`)
+* [i want hue](https://medialab.github.io/iwanthue/) — Clustering on 2d plane. Application: `data` science.
+* [Systemic Color Palette](https://hypejunction.github.io/color-wizard/) — Parabolic formula to autofill color saturation for various intervals. (`other`, `CSS`, `SCSS`, `JSON`)
 
 ## No choice
 No need to be special and original? Go with the color palette that works.
