@@ -9,16 +9,16 @@ If your intention is UI and you're not already a designer, **please do not ignor
 
 ## Automatic
 Palettes are generated automagically or with AI. Usually you still can (sometimes must) specify a color to force such a tool to generate palettes around the provided color.
-* [Colormind](http://colormind.io/) — Uses deep learning. Showcases: `website`.
-* [Coolors.co](https://coolors.co/) — Not tailored for any particular application (`other`).
+* [Colormind](http://colormind.io/) — The smartest *(in my opinion).* Automatic, deep-learned on photographs, movies, and popular art. Showcases: `website`.
+* [Coolors.co](https://coolors.co/) — Most polished in this category *(in my opinion).* (`other`).
 * [Palx](https://palx.jxnblk.com/) — Application: `UI`, `data` visualization.
 * [Strapless](http://strapless.io/) — Application: CSS. Showcases: itself (`website`).
 * [Tailwind Ink](https://tailwind.ink/) — Application: CSS (`website`).
 
 ## Community
 Palettes provided by users and their votes.
-* [ColorCombos](https://www.colorcombos.com/) — Not tailored for any particular application (`other`).
-* [COLOURLovers](https://www.colourlovers.com/) — Not tailored for any particular application (`other`).
+* [ColorCombos](https://www.colorcombos.com/) — Unspecialized (`other`).
+* [COLOURLovers](https://www.colourlovers.com/) — Unspecialized (`other`).
 
 ## Curated Collections
 Palettes created/curated by single man, single team, etc.
@@ -29,14 +29,14 @@ Palettes created/curated by single man, single team, etc.
 
 ## Color wheel
 Traditional ideas are used: color wheel, color harmony, complementary colors, triad, tetrad, etc.
-* [Adobe Color](https://color.adobe.com/) — Not tailored for any particular application (`other`).
-* [Paletton.com](http://paletton.com/) — Showcases: `website`, `other` (artwork, fabric, animation).
-* [Color Calculator](https://www.sessions.edu/color-calculator/) — Not tailored for any particular application (`other`).
+* [Adobe Color](https://color.adobe.com/) — Most polished in this category *(in my opinion).* (`other`).
+* [Paletton.com](http://paletton.com/) — Best previewing *(in my opinion).* Showcases: `website`, `other` (artwork, fabric, animation).
+* [Color Calculator](https://www.sessions.edu/color-calculator/) — Unspecialized (`other`).
 
 ## Other approaches (geometric, spatial, etc.)
 
-* [Colllor](http://colllor.com/) — Consistency (fixing some properties while varying only the rest). Not tailored for any particular application (`other`).
-* [Color Atlas](http://color.support/coloratlas.html) — Not tailored for any particular application (`other`).
+* [Colllor](http://colllor.com/) — Consistency (fixing some properties while varying only the rest). Unspecialized (`other`).
+* [Color Atlas](http://color.support/coloratlas.html) — Unspecialized (`other`).
 * [ColorBox](https://www.colorbox.io/) — [Easing and distance on 2d space using Bézier curve](https://kvyn.medium.com/introducing-the-new-colorbox-e0109c021729). (`other`, `json`)
 * [i want hue](https://medialab.github.io/iwanthue/) — Clustering on 2d plane. Application: `data` science.
 * [Systemic Color Palette](https://hypejunction.github.io/color-wizard/) — Parabolic formula to autofill color saturation for various intervals. (`other`, `CSS`, `SCSS`, `JSON`)
