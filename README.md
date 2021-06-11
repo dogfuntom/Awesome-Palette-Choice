@@ -22,7 +22,7 @@ Palettes provided by users and their votes.
 
 ## Curated Collections
 Palettes created/curated by single man, single team, etc.
-* [ColorBrewer 2.0](http://colorbrewer2.org) — Showcases: `map` (cartography).
+* [ColorBrewer 2.0](http://colorbrewer2.org) — Intended for cartography. (Showcases: `map`.)
 * [Colors and Fonts](https://www.colorsandfonts.com/) — Applicatons: `website` (CSS), Material `UI`.
 * [Flat UI Colors 2](https://flatuicolors.com/) — Application: `UI`.
 * [Happy Hues](https://www.happyhues.co/) — Showcases: itself (`website`) and desktop `UI`.
@@ -38,7 +38,7 @@ Traditional ideas are used: color wheel, color harmony, complementary colors, tr
 * [Colllor](http://colllor.com/) — Consistency (fixing some properties while varying only the rest). Unspecialized (`other`).
 * [Color Atlas](http://color.support/coloratlas.html) — Unspecialized (`other`).
 * [ColorBox](https://www.colorbox.io/) — [Easing and distance on 2d space using Bézier curve](https://kvyn.medium.com/introducing-the-new-colorbox-e0109c021729). (`other`, `json`)
-* [i want hue](https://medialab.github.io/iwanthue/) — Clustering on 2d plane. Application: `data` science.
+* [i want hue](https://medialab.github.io/iwanthue/) — Clustering on 2d plane. Intended for plots and diagrams. (Application: `data` science.)
 * [Systemic Color Palette](https://hypejunction.github.io/color-wizard/) — Parabolic formula to autofill color saturation for various intervals. (`other`, `CSS`, `SCSS`, `JSON`)
 
 ## No choice
