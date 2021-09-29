@@ -9,8 +9,9 @@ If your intention is UI and you're not already a designer, **please do not ignor
 
 ## Automatic
 Palettes are generated automagically or with AI. Usually you still can (sometimes must) specify a color to force such a tool to generate palettes around the provided color.
-* [Colormind](http://colormind.io/) — The smartest *(in my opinion).* Automatic, deep-learned on photographs, movies, and popular art. Showcases: `website`.
-* [Coolors.co](https://coolors.co/) — Most polished in this category *(in my opinion).* (`other`).
+* [Colormind](http://colormind.io/) — Automatic, deep-learned on photographs, movies, and popular art. Showcases: `website`.
+* [Coolors.co](https://coolors.co/) — A highly polished generator (`other`).
+* [Huemint](https://huemint.com/) — Applications: `website`, `data`, `other` (brand, gradient, illustration).
 * [Palx](https://palx.jxnblk.com/) — Application: `UI`, `data` visualization.
 * [Strapless](http://strapless.io/) — Application: CSS. Showcases: itself (`website`).
 * [Tailwind Ink](https://tailwind.ink/) — Application: CSS (`website`).
