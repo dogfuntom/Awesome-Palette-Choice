@@ -46,6 +46,10 @@ Traditional ideas are used: color wheel, color harmony, complementary colors, tr
 No need to be special and original? Go with the color palette that works.
 * [Open Color](https://yeun.github.io/open-color/) — A single but especially robust color scheme (`other`).
 
+## Unsorted (yet)
+
+* <https://comigo.itch.io/palettes>
+
 # Other awesome lists
 * [spark-joy: easy ways to add design flair, user delight, and whimsy to your product](https://github.com/sw-yx/spark-joy) — Includes color picking and color knowledge among other design-related things.
 * [Nodesign.dev](https://nodesign.dev/) — Tools for people who have to design but don't want to, including color-related tools.
