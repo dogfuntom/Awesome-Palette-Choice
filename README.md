@@ -36,6 +36,7 @@ Traditional ideas are used: color wheel, color harmony, complementary colors, tr
 
 ## Other approaches (geometric, spatial, etc.)
 
+* [CoMiGo's palette generator](https://comigo.itch.io/palettes) – aim: `art`, `stylized`; export: `grid`, `Gimp`, `Photoshop`, etc.; more keywords: `pixel`, `animation`, `game`, `HDR`, `LCH`
 * [Colllor](http://colllor.com/) — Consistency (fixing some properties while varying only the rest). Unspecialized (`other`).
 * [Color Atlas](http://color.support/coloratlas.html) — Unspecialized (`other`).
 * [ColorBox](https://www.colorbox.io/) — [Easing and distance on 2d space using Bézier curve](https://kvyn.medium.com/introducing-the-new-colorbox-e0109c021729). (`other`, `json`)
@@ -45,10 +46,6 @@ Traditional ideas are used: color wheel, color harmony, complementary colors, tr
 ## No choice
 No need to be special and original? Go with the color palette that works.
 * [Open Color](https://yeun.github.io/open-color/) — A single but especially robust color scheme (`other`).
-
-## Unsorted (yet)
-
-* <https://comigo.itch.io/palettes>
 
 # Other awesome lists
 * [spark-joy: easy ways to add design flair, user delight, and whimsy to your product](https://github.com/sw-yx/spark-joy) — Includes color picking and color knowledge among other design-related things.
