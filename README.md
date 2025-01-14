@@ -13,7 +13,6 @@ Palettes are generated automagically or with AI. Usually you still can (sometime
 * [Coolors.co](https://coolors.co/) — A highly polished generator (`other`).
 * [Huemint](https://huemint.com/) — Applications: `website`, `other` (brand, gradient, illustration).
 * [Palx](https://palx.jxnblk.com/) — Application: `UI`, `data` visualization.
-* [Strapless](http://strapless.io/) — Application: CSS. Showcases: itself (`website`).
 * [Tailwind Ink](https://tailwind.ink/) — Application: CSS (`website`).
 
 ## Community
