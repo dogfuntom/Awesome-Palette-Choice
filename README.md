@@ -26,6 +26,7 @@ Palettes created/curated by single man, single team, etc.
 * [Colors and Fonts](https://www.colorsandfonts.com/) — Applicatons: `website` (CSS), Material `UI`.
 * [Flat UI Colors 2](https://flatuicolors.com/) — Application: `UI`.
 * [Happy Hues](https://www.happyhues.co/) — Showcases: itself (`website`) and desktop `UI`.
+* [Palette Preview](https://morpeia.com/palette/) – 2,125 curated palettes (Sanzo Wada, MetBrewer, Wes Anderson, COLOURLovers, Color Hunt) previewed on your own SVG. Showcases: `other` (illustration, logo); export: `CSS`, `Gimp`, ASE, Procreate.
 
 ## Color wheel
 Traditional ideas are used: color wheel, color harmony, complementary colors, triad, tetrad, etc.
